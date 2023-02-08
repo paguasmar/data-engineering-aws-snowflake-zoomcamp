@@ -1,1 +1,3 @@
-Week1-Docker,Terraform,AWS,Snowflake/1_terraform_aws/terraform/.terraform                                                                    
+Week1-Docker,Terraform,AWS,Snowflake/1_terraform_aws/terraform/.terraform
+Week2-Airflow,Docker/airflow/logs
+Week2-Airflow,Docker/airflow/dags/__pycache__
